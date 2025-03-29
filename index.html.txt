@@ -1,0 +1,18 @@
+<html>
+  <head>
+    <title>....html....</title>
+ </head>
+  <body>
+    <h1>click a home page</h1>
+    <hr>
+      <a href="page1.html"> for home</a>
+      <h2>click a about page</h2>
+      <hr>
+        <a href="page2.html">for about</a>
+    <h3>click a contact page</h3>
+        <hr>
+      <a href="page3.html">for contact</a>
+  
+  </body>
+
+</html>
